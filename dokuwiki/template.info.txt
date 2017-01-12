@@ -1,0 +1,7 @@
+base     dokuwiki
+author   Anika Henke, Olivier Brizard (a.k.a beemoon)
+email    contact@beemoon.fr
+date     2017-01-11
+name     DokuWiki
+desc     DokuWiki's default template fork
+url      https://www.dokuwiki.org/template:dokuwiki
