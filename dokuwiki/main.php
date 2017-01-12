@@ -43,9 +43,15 @@ $showSidebar = $hasSidebar && ($ACT=='show');
                     <div class="content"><div class="group">
                         <?php tpl_flush() ?>
                         <?php tpl_includeFile('sidebarheader.html') ?>
+                        
+                        <?php tpl_include_page(tpl_getConf('topSidebar'), true, true) ?>
+                        <p><br/></p>
                         <div id="accordion">
                         <?php tpl_include_page($conf['sidebar'], true, true) ?>
                         </div>
+                        <p><br/></p>
+                        <?php tpl_include_page(tpl_getConf('bottomSidebar'), true, true) ?>
+                        
                         <?php tpl_includeFile('sidebarfooter.html') ?>
                     </div></div>
                 </div></div><!-- /aside -->

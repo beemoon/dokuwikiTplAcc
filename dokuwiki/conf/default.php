@@ -7,3 +7,5 @@
  */
 
 $conf['enableAccordion']          = 1;
+$conf['topSidebar']	=	'';
+$conf['bottomSidebar']	= '';
