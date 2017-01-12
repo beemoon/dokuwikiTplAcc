@@ -4,4 +4,4 @@ email    contact@beemoon.fr
 date     2017-01-11
 name     DokuWiki
 desc     DokuWiki's default template fork
-url      https://www.dokuwiki.org/template:dokuwiki
+url      https://www.dokuwiki.org/template:dokuwikiTplAcc
