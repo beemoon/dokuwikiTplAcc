@@ -1,7 +1,7 @@
 base     dokuwiki
-author   Anika Henke, Olivier Brizard (a.k.a beemoon)
+author   Anika Henke, Beemoon and Co
 email    contact@beemoon.fr
-date     2017-01-11
-name     DokuWiki
+date     2017-01-12
+name     DokuWiki Template Accordion
 desc     DokuWiki's default template fork
 url      https://www.dokuwiki.org/template:dokuwikiTplAcc
