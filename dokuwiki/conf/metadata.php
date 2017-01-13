@@ -11,3 +11,4 @@
 $meta['enableAccordion']  = array('onoff');
 $meta['topSidebar']	=	array('string');
 $meta['bottomSidebar']	=	array('string');
+
